@@ -16,7 +16,9 @@ public class LinearSearch {
         }
     }
 }
+```
 
+```JAVA
 public class LinearSearch {
     public static void main(String[] args) {
     int[] arr = { 1, 2, 3, 4, 5, 6 };
@@ -31,7 +33,7 @@ public class LinearSearch {
     }
 }
 
-        if (!found) {
+    if (!found) {
         System.out.println(num + " not found in array");
         }
     }
@@ -39,6 +41,7 @@ public class LinearSearch {
 ```
 
 <h2> For String </h2>
+    
 ```JAVA
 public class LinearSearch {
     public static void main(String[] args) {

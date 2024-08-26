@@ -123,7 +123,7 @@ public class binarySearch {
 
 ## How to Use
 
-Clone this repository and explore the `linear_search.py` and `binary_search.py` files to see the implementations. You can also run the example usage code provided to test the algorithms with different input arrays and target values.
+Clone this repository and explore the `linear_search.java` and `binary_search.java` files to see the implementations. You can also run the example usage code provided to test the algorithms with different input arrays and target values.
 
 ```bash
 git clone https://github.com/Piyushraj7982/Searching-Algorithms.git

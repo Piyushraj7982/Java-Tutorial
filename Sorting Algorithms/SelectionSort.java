@@ -20,6 +20,9 @@ public class SelectionSort {
     }
 }
 
+
+# For String
+
 public class SelectionSort {
     public static void main(String[] args) {
         String[] arr = { "pk", "ck", "dk", "kk", "rk" };
